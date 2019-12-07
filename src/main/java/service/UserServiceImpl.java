@@ -1,7 +1,7 @@
 package service;
 
 import entity.User;
-import entity.UserService;
+import api.UserService;
 
 import java.util.ArrayList;
 import java.util.List;

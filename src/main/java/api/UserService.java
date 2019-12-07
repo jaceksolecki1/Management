@@ -1,4 +1,6 @@
-package entity;
+package api;
+
+import entity.User;
 
 import java.util.List;
 
